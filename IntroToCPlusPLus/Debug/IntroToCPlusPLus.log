@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\s208045\source\repos\IntroToCPlusPLus\IntroToCPlusPLus\Main.cpp(11,25): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\s208045\source\repos\IntroToCPlusPLus\IntroToCPlusPLus\Main.cpp(15,25): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  IntroToCPlusPLus.vcxproj -> C:\Users\s208045\source\repos\IntroToCPlusPLus\Debug\IntroToCPlusPLus.exe
